@@ -238,7 +238,7 @@ be considered true, and `"disabled"` will be considered false.
 
 <img class="no-shadow" src='/images/blog/2022-07/bool.png' alt='Screenshot demonstrating auto-complete for MDI icons in the code editors'>
 
-Using `bool` as a filter and combined with and [`iff`](/docs/configuration/templating/#immediate-if-iif)
+Using `bool` as a filter and combined with and [`iif`](/docs/configuration/templating/#immediate-if-iif)
 filter, you can quickly change, for example, binary sensors values into any
 text you'd like.
 
